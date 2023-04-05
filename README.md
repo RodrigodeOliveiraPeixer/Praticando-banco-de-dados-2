@@ -1,6 +1,5 @@
 # Praticando-banco-de-dados-2
 
-1 - Uma lista com as profissões dos gafanhotos e seus respectivos quantitativos.
 
 <br>
  1 - Uma lista com as profissões dos gafanhotos e seus respectivos quantitativos.
